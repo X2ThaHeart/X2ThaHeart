@@ -1,4 +1,16 @@
-### Hi there 👋
+### Thanks for checking my profile... 
+
+My life all day everyday! 
+
+🌐 (Worldwide business)
+📚 (Love reading)
+🛠️ (Always working)
+🖥️ (Desktop computer only)
+🧠 (Concentration)
+🐍 (Python)
+🌊♯ (C#)
+💡 (Creativity)
+🤖 (API/A.I)
 
 <!--
 **X2ThaHeart/X2ThaHeart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
