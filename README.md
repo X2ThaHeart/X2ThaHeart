@@ -2,15 +2,15 @@
 
 My life all day everyday! 
 
-🌐 (Worldwide business)
-📚 (Love reading)
-🛠️ (Always working)
-🖥️ (Desktop computer only)
-🧠 (Concentration)
-🐍 (Python)
-🌊♯ (C#)
-💡 (Creativity)
-🤖 (API/A.I)
+🌐 Worldwide business<br>
+📚 Love reading<br>
+🛠️ Always working<br>
+🖥️ Desktop computer only<br>
+🧠 Concentration<br>
+🐍 Python<br>
+🌊♯ C#<br>
+💡 Creativity<br>
+🤖 API/A.I<br>
 
 <!--
 **X2ThaHeart/X2ThaHeart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
