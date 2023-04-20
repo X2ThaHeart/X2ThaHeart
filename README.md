@@ -12,9 +12,16 @@ My life all day everyday!
 💡 Creativity<br>
 🤖 API/A.I<br>
 
-# Experiance with the following: 
+### Experiance with the following: 
 
-✨PHP | ✨Python | ✨C# | C/C++ | ⚡HTML/CSS | Javascript | Laravel | ASP .NET | ⚡CPanel | PHPMyAdmin | ✨MySQL | MSSQL | ✨WordPress | MVC | ⚡MVVM
+✨PHP | ✨Python | ✨C# | ✨MySQL | ✨WordPress<br> 
+⚡HTML/CSS | ⚡Javascript | ⚡Laravel | ⚡ASP .NET<br>
+⚡CPanel | ⚡MVVM | ⚡PHPMyAdmin | ⚡APIs | ⚡ChatGPT<br>
+💬MSSQL | 💬MVC | 💬C/C++ | 💬Linux | <br>
+
+### Working with the following software:
+
+Visual Studio | PyCharm | PHPStorm | VS Code
 
 <!--
 **X2ThaHeart/X2ThaHeart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
